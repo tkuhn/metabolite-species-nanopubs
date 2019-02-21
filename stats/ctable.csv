@@ -1,0 +1,4 @@
+file,reusableCount,inputCount,reuseCount,topicMatchCount,intopicDuplCount,outTopicDuplCount,topicMatchErrors
+metaboliteSpecies_20190113_0951.trig.gz,0,1181,0,0,0,0,0
+metaboliteSpecies_20190114_2136.trig.gz,1181,1206,1181,0,0,0,0
+metaboliteSpecies_20190217_1246.trig.gz,1206,1212,1192,6,0,0,0
